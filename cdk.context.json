@@ -1,0 +1,38 @@
+{
+  "hosted-zone:account=174219222059:domainName=cmcloudlab1627.info:region=us-east-1": {
+    "Id": "/hostedzone/Z0772227E3ADIVC7WEGQ",
+    "Name": "cmcloudlab1627.info."
+  },
+  "hosted-zone:account=133631580572:domainName=cmcloudlab515.info:region=us-east-1": {
+    "Id": "/hostedzone/Z06245993R6DDL18APSF6",
+    "Name": "cmcloudlab515.info."
+  },
+  "hosted-zone:account=685842666191:domainName=cmcloudlab658.info:region=us-east-1": {
+    "Id": "/hostedzone/Z06783742DLL13K5SP4A9",
+    "Name": "cmcloudlab658.info."
+  },
+  "hosted-zone:account=775591165938:domainName=cmcloudlab936.info:region=us-east-1": {
+    "Id": "/hostedzone/Z00041923CCJ004GW9Z9J",
+    "Name": "cmcloudlab936.info."
+  },
+  "hosted-zone:account=982633020617:domainName=cmcloudlab1800.info:region=us-east-1": {
+    "Id": "/hostedzone/Z01819713DH25EW2BNFB8",
+    "Name": "cmcloudlab1800.info."
+  },
+  "hosted-zone:account=448244794999:domainName=cmcloudlab618.info:region=us-east-1": {
+    "Id": "/hostedzone/Z08931942PYPYV9RCU8AG",
+    "Name": "cmcloudlab618.info."
+  },
+  "hosted-zone:account=966399774209:domainName=cmcloudlab695.info:region=us-east-1": {
+    "Id": "/hostedzone/Z0747800274IZ03S5L69Y",
+    "Name": "cmcloudlab695.info."
+  },
+  "hosted-zone:account=921613977667:domainName=cmcloudlab699.info:region=us-east-1": {
+    "Id": "/hostedzone/Z0495725247K8GX85HRME",
+    "Name": "cmcloudlab699.info."
+  },
+  "hosted-zone:account=307162448257:domainName=cmcloudlab543.info:region=us-east-1": {
+    "Id": "/hostedzone/Z06491943S65AE8W55L0",
+    "Name": "cmcloudlab543.info."
+  }
+}
