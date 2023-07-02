@@ -9,3 +9,5 @@ __pycache__
 .cdk.staging
 cdk.out
 requirements-dev.txt
+content-aws-sam/
+cdk-outputs.json
