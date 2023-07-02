@@ -16,9 +16,6 @@ from aws_cdk.aws_route53 import HostedZone as _hz
 
 
 #TODO Automate the application code deployment to the S3 bucket
-#TODO Figure out what the first bucket is for
-#TODO Check if destination bucket for www.domain.com exists, if not, create
-#TODO Define the creation and deletion order
 
 class CognitoProjectStack(Stack):
 
@@ -114,7 +111,7 @@ class CognitoProjectStack(Stack):
             record_name="www",
             domain_name=cfd.domain_name
         )
-        
+
         CfnOutput(self, "userPoolId", value=user_pool.user_pool_id)
         CfnOutput(self, "userPoolWebClientId", value=app_client.user_pool_client_id)
         CfnOutput(self, "AuthDomain", value=f"auth.{domain_name}")

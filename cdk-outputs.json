@@ -1,0 +1,11 @@
+{
+  "CognitoProjectStack": {
+    "RedirectSignOut": "https://www.cmcloudlab1687.info",
+    "userPoolWebClientId": "7nfg963lh2bb5ntjtcof4gsvrb",
+    "AuthDomain": "auth.cmcloudlab1687.info",
+    "DestinationS3": "www.cmcloudlab1687.info",
+    "cognitocfdomainalias": "d1sz626gamjgqe.cloudfront.net",
+    "userPoolId": "us-east-1_AUkGCKO64",
+    "RedirectSignIn": "https://www.cmcloudlab1687.info"
+  }
+}
