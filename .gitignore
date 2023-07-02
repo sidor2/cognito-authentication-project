@@ -9,5 +9,6 @@ __pycache__
 .cdk.staging
 cdk.out
 requirements-dev.txt
-content-aws-sam/
-cdk-outputs.json
+front-end/app/node_modules/*
+front-end/app/node_modules/.bin/acorn
+front-end/app/dist/*

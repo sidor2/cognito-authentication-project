@@ -42,5 +42,13 @@
   "hosted-zone:account=949221891277:domainName=cmcloudlab1687.info:region=us-east-1": {
     "Id": "/hostedzone/Z10279001ZZECLPHY121E",
     "Name": "cmcloudlab1687.info."
+  },
+  "hosted-zone:account=268157074023:domainName=cmcloudlab703.info:region=us-east-1": {
+    "Id": "/hostedzone/Z100928021DX6R0V6D2QA",
+    "Name": "cmcloudlab703.info."
+  },
+  "hosted-zone:account=370710341537:domainName=cmcloudlab654.info:region=us-east-1": {
+    "Id": "/hostedzone/Z098998625W4KZK9EMTPY",
+    "Name": "cmcloudlab654.info."
   }
 }
