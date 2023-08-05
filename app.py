@@ -4,7 +4,6 @@ import os
 import aws_cdk as cdk
 
 from cognito_project.cognito_project_stack import CognitoProjectStack
-from cognito_project.ec2_builder_stack import Ec2BuilderStack
 
 app = cdk.App()
 
