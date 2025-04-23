@@ -1,5 +1,5 @@
 
-# Cognito ACG Lab solution project!
+# Cognito Authentication
 https://learn.acloud.guru/handson/86873530-816c-49bf-b81e-fea5e4fb315c
 
 
